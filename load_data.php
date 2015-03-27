@@ -14,7 +14,8 @@ if($action <> "get")
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" href="styles.css" type="text/css" />
-<script type="text/javascript" src="jquery-1.2.6.pack.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
 	
 	<script type="text/javascript">
 	$(document).ready(function(){
